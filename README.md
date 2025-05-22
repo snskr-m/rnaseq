@@ -6,7 +6,7 @@ https://www.nature.com/articles/s41588-019-0412-0
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE111205
 
-![359ba852-880f-4f72-8abf-a10b14ba3837](https://github.com/user-attachments/assets/f5e62a8d-49fd-4c5d-b076-2741549a189c)
+![267532bd-e160-4e96-828a-40c8eb5ebfb3](https://github.com/user-attachments/assets/7de22d63-7488-4d77-ae1c-723ff28d2f85)
 ![aacbaf49-e6d3-454e-816b-4418bbffae0f](https://github.com/user-attachments/assets/1ffc7814-086e-4842-9b9e-e9adba6e556b)
 ![f15bd758-2c03-4351-a8a5-4664b13a2109](https://github.com/user-attachments/assets/c350bdd6-ebc4-40af-a034-b274a3408c97)
 ![4f158769-c839-4b69-8550-b21f4ae76468](https://github.com/user-attachments/assets/cffbf766-e0fa-4cf9-a774-6768d8d7b3db)
